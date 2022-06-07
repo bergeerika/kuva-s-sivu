@@ -14,7 +14,7 @@
     "react-scripts": "latest"
   },
   "main": "index.tsx",
-  "name": "kuvia2",
+  "name": "helloworld",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
