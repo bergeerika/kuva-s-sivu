@@ -7,11 +7,13 @@
     "@types/react-dom": "latest",
     "react": "latest",
     "react-dom": "latest",
+    "react-router-dom": "^6.3.0",
     "typescript": "latest"
   },
   "description": "https://github.com/mui/material-ui/blob/v5.8.2/docs/data/material/components/image-list/StandardImageList.tsx",
   "devDependencies": {
-    "react-scripts": "latest"
+    "react-scripts": "latest",
+    "web-vitals": "^2.1.4"
   },
   "main": "index.tsx",
   "name": "helloworld",
@@ -21,7 +23,6 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-
   "browserslist": [
     ">0.2%",
     "not dead",
